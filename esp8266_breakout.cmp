@@ -1,0 +1,276 @@
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Thu 27 Nov 2014 11:49:23 PM CET
+
+BeginCmp
+TimeStamp = /546909FF;
+Reference = C1;
+ValeurCmp = 4.7uF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5468E84C;
+Reference = C2;
+ValeurCmp = 4.7uF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54690BE0;
+Reference = C3;
+ValeurCmp = 4.7uF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5468F2FC;
+Reference = C4;
+ValeurCmp = 100nF;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /5468F68A;
+Reference = C5;
+ValeurCmp = 47pF;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /5468F696;
+Reference = C6;
+ValeurCmp = 47pF;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /5468F9F4;
+Reference = C7;
+ValeurCmp = 100nF;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /5468F435;
+Reference = C8;
+ValeurCmp = 100nF;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /5468F441;
+Reference = C9;
+ValeurCmp = 4.7uF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5468E71B;
+Reference = C10;
+ValeurCmp = 4.7uF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5468F10A;
+Reference = CON1;
+ValeurCmp = USB-MICRO-B2;
+IdModule  = USB_MINI_B;
+EndCmp
+
+BeginCmp
+TimeStamp = /5468FDCF;
+Reference = D1;
+ValeurCmp = RXLED;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /5468FDC9;
+Reference = D2;
+ValeurCmp = TXLED;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /5468FD9E;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /5468F25D;
+Reference = FB1;
+ValeurCmp = FILTER;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /546920CC;
+Reference = P1;
+ValeurCmp = CONN_12;
+IdModule  = SIL-12;
+EndCmp
+
+BeginCmp
+TimeStamp = /5468E750;
+Reference = Q1;
+ValeurCmp = MOS_P;
+IdModule  = SOT23GDS_L;
+EndCmp
+
+BeginCmp
+TimeStamp = /5468E741;
+Reference = Q2;
+ValeurCmp = MOS_N;
+IdModule  = SOT23GDS_L;
+EndCmp
+
+BeginCmp
+TimeStamp = /5468E76E;
+Reference = R1;
+ValeurCmp = 1k;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /5468E837;
+Reference = R2;
+ValeurCmp = 1k;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /5468E8E1;
+Reference = R4;
+ValeurCmp = 1k;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /54778A8F;
+Reference = R5;
+ValeurCmp = 1k;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /5468F812;
+Reference = R6;
+ValeurCmp = 27R;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /5468F82E;
+Reference = R7;
+ValeurCmp = 27R;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /54690557;
+Reference = R8;
+ValeurCmp = NP;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /5468FD35;
+Reference = R9;
+ValeurCmp = 1k;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /5468FD2F;
+Reference = R10;
+ValeurCmp = 1k;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /5468FCC5;
+Reference = R11;
+ValeurCmp = 1k;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /54778893;
+Reference = R12;
+ValeurCmp = 1k;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /547788A2;
+Reference = R13;
+ValeurCmp = 1k;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /547788B1;
+Reference = R14;
+ValeurCmp = 1k;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /547788C0;
+Reference = R15;
+ValeurCmp = 1k;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /547788DE;
+Reference = R16;
+ValeurCmp = 1k;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /547788ED;
+Reference = R17;
+ValeurCmp = 1k;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /547788FC;
+Reference = R18;
+ValeurCmp = 1k;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /5468E75F;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /546908EB;
+Reference = U1;
+ValeurCmp = NCP1117LP;
+IdModule  = SOT223;
+EndCmp
+
+BeginCmp
+TimeStamp = /5468E6CC;
+Reference = U2;
+ValeurCmp = ESP8266-3;
+IdModule  = ESP8266-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /54692F2B;
+Reference = U3;
+ValeurCmp = FT230XS;
+IdModule  = ssop-16;
+EndCmp
+
+EndListe
