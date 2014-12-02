@@ -1,4 +1,4 @@
-update=Fri 28 Nov 2014 12:02:15 AM CET
+update=Tue 02 Dec 2014 10:19:25 PM CET
 version=1
 last_client=pcbnew
 [general]
@@ -52,10 +52,10 @@ EquName1=devcms
 version=1
 LastNetListRead=esp8266_breakout.net
 UseCmpFile=1
-PadDrill="    0.000000"
-PadDrillOvalY="    0.000000"
-PadSizeH="    3.000000"
-PadSizeV="    1.500000"
+PadDrill="    0.812800"
+PadDrillOvalY="    0.812800"
+PadSizeH="    2.000000"
+PadSizeV="    2.000000"
 PcbTextSizeV="    1.500000"
 PcbTextSizeH="    1.500000"
 PcbTextThickness="    0.300000"
@@ -68,7 +68,7 @@ DrawSegmentWidth="    0.200000"
 BoardOutlineThickness="    0.100000"
 ModuleOutlineThickness="    0.150000"
 [pcbnew/libraries]
-LibDir=../../_kicad_lib
+LibDir=libs
 LibName1=sockets
 LibName2=connect
 LibName3=discret
@@ -87,3 +87,4 @@ LibName15=pga_sockets
 LibName16=valves
 LibName17=limpkins_lib
 LibName18=logo_hacker_cutop_10_0mm
+LibName19=smisitoto_eu/w_smd_trans

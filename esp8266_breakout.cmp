@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Thu 27 Nov 2014 11:49:23 PM CET
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Tue 02 Dec 2014 10:20:43 PM CET
 
 BeginCmp
 TimeStamp = /546909FF;
@@ -256,7 +256,7 @@ BeginCmp
 TimeStamp = /546908EB;
 Reference = U1;
 ValeurCmp = NCP1117LP;
-IdModule  = SOT223;
+IdModule  = sot223;
 EndCmp
 
 BeginCmp
