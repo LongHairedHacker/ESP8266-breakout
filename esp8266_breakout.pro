@@ -1,11 +1,57 @@
-update=Tue 02 Dec 2014 10:19:25 PM CET
+update=Tue 02 Dec 2014 11:29:43 PM CET
 version=1
-last_client=pcbnew
+last_client=eeschema
 [general]
 version=1
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
+[pcbnew]
+version=1
+LastNetListRead=esp8266_breakout.net
+UseCmpFile=1
+PadDrill="    3.048000"
+PadDrillOvalY="    3.048000"
+PadSizeH="    4.064000"
+PadSizeV="    4.064000"
+PcbTextSizeV="    1.500000"
+PcbTextSizeH="    1.500000"
+PcbTextThickness="    0.300000"
+ModuleTextSizeV="    1.000000"
+ModuleTextSizeH="    1.000000"
+ModuleTextSizeThickness="    0.150000"
+SolderMaskClearance="    0.100000"
+SolderMaskMinWidth="    0.200000"
+DrawSegmentWidth="    0.200000"
+BoardOutlineThickness="    0.100000"
+ModuleOutlineThickness="    0.150000"
+[pcbnew/libraries]
+LibDir=libs
+LibName1=sockets
+LibName2=connect
+LibName3=discret
+LibName4=pin_array
+LibName5=divers
+LibName6=smd_capacitors
+LibName7=smd_resistors
+LibName8=smd_crystal&oscillator
+LibName9=smd_dil
+LibName10=smd_transistors
+LibName11=libcms
+LibName12=display
+LibName13=led
+LibName14=dip_sockets
+LibName15=pga_sockets
+LibName16=valves
+LibName17=limpkins_lib
+LibName18=logo_hacker_cutop_10_0mm
+LibName19=smisitoto_eu/w_smd_trans
+LibName20=smisitoto_eu/w_conn_rf
 [eeschema]
 version=1
-LibDir=../../_kicad_lib
+LibDir=libs
 NetFmtName=
 RptD_X=0
 RptD_Y=100
@@ -43,48 +89,3 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=limpkins_lib
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
-[pcbnew]
-version=1
-LastNetListRead=esp8266_breakout.net
-UseCmpFile=1
-PadDrill="    0.812800"
-PadDrillOvalY="    0.812800"
-PadSizeH="    2.000000"
-PadSizeV="    2.000000"
-PcbTextSizeV="    1.500000"
-PcbTextSizeH="    1.500000"
-PcbTextThickness="    0.300000"
-ModuleTextSizeV="    1.000000"
-ModuleTextSizeH="    1.000000"
-ModuleTextSizeThickness="    0.150000"
-SolderMaskClearance="    0.100000"
-SolderMaskMinWidth="    0.200000"
-DrawSegmentWidth="    0.200000"
-BoardOutlineThickness="    0.100000"
-ModuleOutlineThickness="    0.150000"
-[pcbnew/libraries]
-LibDir=libs
-LibName1=sockets
-LibName2=connect
-LibName3=discret
-LibName4=pin_array
-LibName5=divers
-LibName6=smd_capacitors
-LibName7=smd_resistors
-LibName8=smd_crystal&oscillator
-LibName9=smd_dil
-LibName10=smd_transistors
-LibName11=libcms
-LibName12=display
-LibName13=led
-LibName14=dip_sockets
-LibName15=pga_sockets
-LibName16=valves
-LibName17=limpkins_lib
-LibName18=logo_hacker_cutop_10_0mm
-LibName19=smisitoto_eu/w_smd_trans

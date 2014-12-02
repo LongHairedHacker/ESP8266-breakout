@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Tue 02 Dec 2014 10:20:43 PM CET
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Tue 02 Dec 2014 11:48:11 PM CET
 
 BeginCmp
 TimeStamp = /546909FF;
@@ -113,6 +113,13 @@ IdModule  = SIL-12;
 EndCmp
 
 BeginCmp
+TimeStamp = /547E3F4F;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = coaxial_u.fl-r-smt-1;
+EndCmp
+
+BeginCmp
 TimeStamp = /5468E750;
 Reference = Q1;
 ValeurCmp = MOS_P;
@@ -165,13 +172,6 @@ BeginCmp
 TimeStamp = /5468F82E;
 Reference = R7;
 ValeurCmp = 27R;
-IdModule  = SM0603_Resistor;
-EndCmp
-
-BeginCmp
-TimeStamp = /54690557;
-Reference = R8;
-ValeurCmp = NP;
 IdModule  = SM0603_Resistor;
 EndCmp
 
@@ -271,6 +271,20 @@ TimeStamp = /54692F2B;
 Reference = U3;
 ValeurCmp = FT230XS;
 IdModule  = ssop-16;
+EndCmp
+
+BeginCmp
+TimeStamp = /547E4001;
+Reference = W1;
+ValeurCmp = TEST;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /547E5A99;
+Reference = W2;
+ValeurCmp = TEST;
+IdModule  = SM0603_Resistor;
 EndCmp
 
 EndListe
