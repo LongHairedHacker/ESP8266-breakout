@@ -1,0 +1,16 @@
+Changes
+=======
+
+limpking
+--------
+- Original schematic and board layout
+- See: http://www.limpkin.fr/index.php?post/2014/11/27/A-Development-Board-for-the-ESP8266-03
+
+LongHairedHacker
+----------------
+- Chaos InKL Version
+- Added connector for external antenna
+- Changed some parts for easier sourcing
+- Changed resistor network to individual resistors to allow individual resistance values
+- Added mounting holes
+
