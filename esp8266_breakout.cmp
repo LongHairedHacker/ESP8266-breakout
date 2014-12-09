@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Tue 02 Dec 2014 11:48:11 PM CET
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Mon 08 Dec 2014 10:12:09 PM CET
 
 BeginCmp
 TimeStamp = /546909FF;
@@ -102,7 +102,7 @@ BeginCmp
 TimeStamp = /5468F25D;
 Reference = FB1;
 ValeurCmp = FILTER;
-IdModule  = SM0603_Resistor;
+IdModule  = SM0805;
 EndCmp
 
 BeginCmp
